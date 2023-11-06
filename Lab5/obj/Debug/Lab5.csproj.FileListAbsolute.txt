@@ -1,0 +1,11 @@
+C:\Users\maria\Desktop\Lab5\bin\Debug\Lab5.exe.config
+C:\Users\maria\Desktop\Lab5\bin\Debug\Lab5.exe
+C:\Users\maria\Desktop\Lab5\bin\Debug\Lab5.pdb
+C:\Users\maria\Desktop\Lab5\bin\Debug\Newtonsoft.Json.dll
+C:\Users\maria\Desktop\Lab5\bin\Debug\Newtonsoft.Json.xml
+C:\Users\maria\Desktop\Lab5\obj\Debug\Lab5.csproj.AssemblyReference.cache
+C:\Users\maria\Desktop\Lab5\obj\Debug\Lab5.csproj.SuggestedBindingRedirects.cache
+C:\Users\maria\Desktop\Lab5\obj\Debug\Lab5.csproj.CoreCompileInputs.cache
+C:\Users\maria\Desktop\Lab5\obj\Debug\Lab5.csproj.CopyComplete
+C:\Users\maria\Desktop\Lab5\obj\Debug\Lab5.exe
+C:\Users\maria\Desktop\Lab5\obj\Debug\Lab5.pdb
